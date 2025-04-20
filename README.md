@@ -1,8 +1,9 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Screenshot 1](/frontend/public/screenshot-1.png)
-![Screenshot 2](/frontend/public/screenshot-2.png)
-![Screenshot 3](/frontend/public/screenshot-3.png)
+![Login Page](/frontend/public/screenshot-1.png)
+![Home Page](/frontend/public/screenshot-2.png)
+![Profile Page](/frontend/public/screenshot-3.png)
+![Settings](/frontend/public/screenshot-4.png)
 
 
 Highlights:
